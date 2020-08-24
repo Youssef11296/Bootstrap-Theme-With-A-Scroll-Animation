@@ -1,0 +1,47 @@
+/* Global */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+/* Body */
+body {
+    overflow-x: hidden;
+}
+
+/* Showcase Section */
+.showcase {
+    margin-top: 30px;
+}
+
+/* Testimonial Section */
+.testimonial {
+    background-color: #ddd;
+}
+
+/* Blockquote Section */
+.blockquote p {
+    font-size: 1.6rem;
+    max-width: 800px;
+    line-height: 1.6;
+}
+
+.blockquote footer {
+    font-size: 1.2rem;
+}
+
+/* Info Section */
+.info {
+    height: 100vh;
+}
+
+/* Contact Section */
+.contact {
+    background-image: url('img/image3.png');
+    background-size: cover;
+    background-position: right;
+    border-top: 10px solid #444;
+    border-bottom: 10px solid #444;
+}
